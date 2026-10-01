@@ -15,7 +15,7 @@ public class CalculatorTest {
     int totalThree = calculator.add(14, 6, 10);
     
     //Concatenated String message
-    String message = calculator.add("Hello", "World");
+    String message = calculator.add("Hello", " World");
 
 
     //Displaying Results
