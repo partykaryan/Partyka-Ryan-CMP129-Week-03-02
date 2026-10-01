@@ -33,7 +33,7 @@ a calculator object from the Calculator class, I was able to use .add to retriev
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response: I specifically used Github to help me format calling the overloaded methods, by starting with the object name (calculator) followed by the method (.add) and finally the parameters within the commas.
+Response: I specifically used Github to help me format calling the overloaded methods, by starting with the object name (calculator) followed by the method (.add) and finally the parameters within the parenthesis.
 
 ## Testing and Verification
 
@@ -51,4 +51,4 @@ Response: After completing this lab assignment I now have a better understanding
 
 Provide any additional information about your use of AI for this lab.
 
-Response: GitHub was also helpful 
+Response: GitHub was also helpful with ensuring that I correctly created the Calculator object in CalculatorTest.
